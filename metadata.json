@@ -1,0 +1,6 @@
+{
+  "name": "대구대학교 학생 정보 포털",
+  "description": "대구대학교 학생들을 위한 생활비, 등록금, 통학/셔틀 등 유용한 대학 생활 정보 허브",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

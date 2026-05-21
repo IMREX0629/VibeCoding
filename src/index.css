@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  --color-du-green: var(--du-green);
+  --color-du-gold: var(--du-gold);
+  --color-du-bg: var(--du-bg);
+  --font-sans: "Inter", "Pretendard", system-ui, -apple-system, sans-serif;
+  --font-mono: "JetBrains Mono", "Fira Code", monospace;
+}
+
+:root {
+  --du-green: #00542E; /* 대구대학교 메인 대학 상징색 (초록) */
+  --du-gold: #C5A059;  /* 대구대학교 서브 상징색 (골드) */
+  --du-bg: #F3F4F6;    /* 세련된 배경 실크 톤 그레이 */
+}
